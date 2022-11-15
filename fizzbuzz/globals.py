@@ -1,0 +1,4 @@
+FIZZ_NUMBER = 3
+BUZZ_NUMBER = 5
+FIZZ = "Fizz"
+BUZZ = "Buzz"
